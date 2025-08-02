@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* שדרוג עיצוב כללי */
+html, body {
+  @apply bg-gray-50 text-primary font-sans antialiased;
+}
+
+
+section {
+  @apply max-w-5xl mx-auto px-4;
+}
+
+h1, h2, h3 {
+  @apply text-gray-900;
+}
+
+a {
+  @apply hover:underline transition-colors duration-200;
+}
+
+html {
+  @apply bg-gray-50;
+}
+html {
+  scroll-behavior: smooth;
+}
