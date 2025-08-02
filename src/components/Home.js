@@ -22,12 +22,14 @@ export default function Home() {
             View My Projects
           </a>
         </div>
-<div className="flex-1">
+         <div className="flex-1">
+<div className="w-full flex justify-center">
   <img
     src="/computer.svg"
     alt="Coding illustration"
-    className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl mx-auto"
+    className="w-[90%] sm:w-[80%] md:w-[60%] lg:w-[50%]"
   />
+</div>
 </div>
 
       </section>
