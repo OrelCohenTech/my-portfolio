@@ -5,14 +5,14 @@ const projects = [
     title: "Titanic Survival Prediction",
     description:
       "Machine learning project that predicts Titanic passenger survival using logistic regression and decision trees. Includes feature engineering and evaluation metrics.",
-    github: "https://github.com/OrelCohen/titanic-predictor",
+    github: "https://github.com/OrelCohenTech/titanic-ml-assignment",
     image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg",
   },
   {
     title: "Pacman Game",
     description:
       "A fun Pacman game clone made with JavaScript and HTML5 Canvas. Includes ghost AI and player scoring.",
-    github: "https://github.com/OrelCohen/pacman-game",
+    github: "https://github.com/OrelCohenTech/Create_Pacman",
     image: "https://upload.wikimedia.org/wikipedia/he/5/59/Pac-man.png",
   },
 ];

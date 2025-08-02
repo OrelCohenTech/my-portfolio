@@ -22,15 +22,14 @@ export default function Home() {
             View My Projects
           </a>
         </div>
+<div className="flex-1">
+  <img
+    src="/computer.svg"
+    alt="Coding illustration"
+    className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl mx-auto"
+  />
+</div>
 
-        {/* IMAGE AREA */}
-        <div className="flex-1">
-          <img
-            src="/computer.svg"
-            alt="Coding illustration"
-            className="w-full max-w-md mx-auto"
-          />
-        </div>
       </section>
 
     </>
