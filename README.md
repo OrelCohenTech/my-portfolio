@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://orel-portfolio.vercel.app" target="_blank">
+    🔗 Live Portfolio Website
+  </a>
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
